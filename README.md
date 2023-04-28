@@ -13,6 +13,7 @@
 #### #2. Запушить все ветки на внешний репозиторий
 
 > находясь в главной ветке `main`:
+
 ```
 git push --all
 ```
@@ -20,12 +21,16 @@ git push --all
 #### #3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
 
 > переключиться на ветку `Bug-reports`:
+
 ```
 git checkout Bug-reports
 ```
 
 > создаем и текстовый файл `bur-report` в *VIM*
-```vim bug-report.txt```
+
+```
+vim bug-report.txt
+```
 
 #### #4. Запушить структуру багрепорта на внешний репозиторий
 
@@ -38,7 +43,7 @@ git push -u origin Bug-reports
 
 #### #5. Вмержить ветку Bag Reports в Main
 
-> переключиться на главную ветку `main`: 
+> переключиться на главную ветку `main`:
 
 ```
 git checkout main
@@ -54,11 +59,13 @@ git push
 #### #7. В ветке CheckLists набросать структуру чек листа
 
 > переключиться на ветку `Check-lists`:
+
 ```
 git checkout Check-lists
 ```
 
 > создаем и текстовый файл `bur-report` в *VIM*
+
 ```
 vim check-list.txt
 ```
@@ -74,4 +81,10 @@ git push -u origin Check-lists
 
 #### #9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
 
+> на внешнем репозитории создать Pull Request, создать коммит, замержить
+
 #### #10. Синхронизировать Внешнюю и Локальную ветки main
+
+```
+git pull
+```
