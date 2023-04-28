@@ -1,0 +1,38 @@
+1. git clone git@github.com:zakharov-dmitriy/xml.git
+2. cd xml
+3. touch new.xml
+4. git add .
+5. git commit -m 'added new.xml'
+6. git push
+7. vim new.xml
+	<?xml version="1.0" encoding="UTF-8"?>
+	<person>
+	    <name>Dmitriy</name>
+	    <age>35</age>
+	    <count_pets>0</count_pets>
+	    <salary>1000</salary>
+	</person>
+8. git commit -am 'update new.xml'
+9. git push
+10. vim preferences.xml
+	<?xml version="1.0" encoding="UTF-8" ?>
+	<preferemces>
+	  <favorit_film>Forrest Gump</favorit_film>
+	  <favorit_serial>Silicon Valley</favorit_serial>
+	  <favorit_food>many</favorit_food>
+	  <favorit_season>spring</favorit_season>
+	  <contry_of_visit>Iceland</contry_of_visit>
+	</preferences>
+11. vim skills.xml
+	<?xml version="1.0" encoding="UTF-8" ?>
+	<skills>
+	  <terminal>commands linux terminal or gitbash (for windows OS)</terminal>
+	  <GIT>learning control version sistem - GIT</GIT>
+	  <Postman>sending request to the server and receiving responses</Postman>
+	  <SQL>requests to database</SQL>
+	  <mobile>testing mobile applications</mobile>
+	</skills>
+12. git add .
+13. git commit -m 'added skills.xml and preferences.xml'
+14. git push
+15. git pull
