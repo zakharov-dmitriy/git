@@ -1,0 +1,4 @@
+name: Dmitriy
+age: 35
+count_pets: 0
+salery: 1000$

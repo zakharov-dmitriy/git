@@ -1,0 +1,29 @@
+1. git clone git@github.com:zakharov-dmitriy/txt.git
+2. cd txt
+3. touch new.txt
+4. git add .
+5. git commit -m 'added new.txt'
+6. git push
+7. vim new.txt
+	name: Dmitriy
+	age: 35
+	count_pets: 0
+	salery: 1000$
+8. git commit -am 'update new.txt'
+9. git push
+10. vim preferences.txt
+	favorit_film: Forrest Gump
+	favorit_serial: Silicon Valley
+	favorit_food: so many
+	favorit_season: spring
+	contry_of_visit: Iceland
+11. vim skills.txt
+	terminal: commands linux terminal or gitbash (for windows OS)
+	GIT: learning control version sistem - GIT
+	Postman: "sending request to the server and receiving responses
+	SQL: requests to database
+	mobile: testing mobile applications
+12. git add .
+13. git commit -m 'added skills.txt and preferences.txt'
+14. git push
+15. git pull
