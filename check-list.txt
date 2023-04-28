@@ -2,5 +2,5 @@ id:
 priority:
 title:
 steps to reproduce:
-actual result:
+expected result:
 status:
