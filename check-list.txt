@@ -1,6 +1,0 @@
-id:
-priority:
-title:
-steps to reproduce:
-actual result:
-status:
