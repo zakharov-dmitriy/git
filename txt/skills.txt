@@ -1,5 +1,0 @@
-terminal: commands linux terminal or gitbash (for windows OS)
-GIT: learning control version sistem - GIT
-Postman: "sending request to the server and receiving responses
-SQL: requests to database
-mobile: testing mobile applications
