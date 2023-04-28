@@ -1,9 +1,0 @@
-id:
-title:
-severity:
-pre-conditions:
-environment:
-steps to reproduce:
-expected result:
-actual result:
-attachments:
