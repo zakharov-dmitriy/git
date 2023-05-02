@@ -11,11 +11,17 @@
 - [Mobile testing](https://github.com/zakharov-dmitriy/git/tree/mobile-esting)
 
 > git branch postman
+
 > git branch jmeter
+
 > git branch check-lists
+
 > git branch bug-reports
+
 > git branch sql
+
 > git branch charles
+
 > git branch mobile-testing
 
 #### #2. Запушить все ветки на внешний репозиторий
