@@ -17,7 +17,7 @@
 > git branch sql
 > git branch charles
 > git branch mobile-testing
->
+
 #### #2. Запушить все ветки на внешний репозиторий
 
 > находясь в главной ветке `main`:
