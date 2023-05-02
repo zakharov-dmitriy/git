@@ -34,7 +34,7 @@ git push --all
 git checkout bug-reports
 ```
 
-> создаем и текстовый файл `bur-report` в *VIM*
+> создаем текстовый файл `bur-report` в *VIM*
 
 ```
 vim bug-report.txt
@@ -72,7 +72,7 @@ git push
 git checkout check-lists
 ```
 
-> создаем и текстовый файл `bur-report` в *VIM*
+> создаем текстовый файл `bur-report` в *VIM*
 
 ```
 vim check-list.txt
